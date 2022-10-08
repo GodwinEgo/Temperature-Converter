@@ -1,0 +1,9 @@
+.para {
+  text-align: center;
+}
+
+@media (max-width:500px) {
+  .para {
+    font-size: 1.5rem;
+  }
+}
